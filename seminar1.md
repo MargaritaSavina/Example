@@ -78,3 +78,9 @@ git diff
 git branch <name_branch>
 ```
 
+
+## Слияние
+Для слияния двух веток набирается команда:
+```
+git merge <name_branch>
+```
