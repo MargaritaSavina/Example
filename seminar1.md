@@ -84,3 +84,5 @@ git branch <name_branch>
 ```
 git merge <name_branch>
 ```
+
+## Заключение
